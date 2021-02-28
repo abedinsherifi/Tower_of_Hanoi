@@ -1,1 +1,1 @@
-# Tower_of_Hanoi
+SCARA robot solving the puzzle of the Towers of Hanoi simulation in Matlab. 

@@ -1,7 +1,4 @@
 % Abedin Sherifi
-% RBE 500
-% Project 2
-% 12/14/2019
 
 function [th1_goal, th2_goal, d3_goal, cp_data] = ungrasp_disc(th1_init, th2_init, d3_init, peg, disc, cp_data)
 %% Peg location, Peg Specifications, Disk Specifications, Link Specifications

@@ -15,8 +15,13 @@ SCARA robot solving the puzzle of the Towers of Hanoi simulation in Matlab.
         <img src="https://img.shields.io/github/contributors/abedinsherifi/Tower_of_Hanoi" /></a>
 </p>
 
-SCARA robot solving the puzzle of the Towers of Hanoi simulation in Matlab.<br>
+## SCARA robot solving the puzzle of the Towers of Hanoi simulation in Matlab.<br>
 
+![](images/Frame_Config.png)
+<br>
+
+![](images/DH_Table.png)
+<br>
 
 
 https://abedinsherifi.github.io/Tower_of_Hanoi/

@@ -1,7 +1,4 @@
 % Abedin Sherifi
-% RBE 500
-% Project 2
-% 12/14/2019
 
 function output=manipulator_3dof_scara_project2(t,x,th_goal,manip_det,PIDs)
 output=zeros(10,1);

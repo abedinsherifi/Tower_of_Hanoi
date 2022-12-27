@@ -1,5 +1,3 @@
-SCARA robot solving the puzzle of the Towers of Hanoi simulation in Matlab. 
-
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=abedinsherifi&show_icons=true)
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=abedinsherifi&theme=blue-green)
 ![](https://komarev.com/ghpvc/?username=abedinsherifi)

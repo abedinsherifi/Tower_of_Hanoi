@@ -1,7 +1,4 @@
 % Abedin Sherifi
-% RBE 500
-% Project 2
-% 12/14/2019
 
 % Full trajectory generation plots of x,y, and z positions
 function traj_gen(fname)

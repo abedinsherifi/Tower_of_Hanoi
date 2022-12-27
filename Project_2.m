@@ -1,7 +1,4 @@
 % Abedin Sherifi
-% RBE 500
-% Project 2
-% 12/14/2019
 
 function Tower_of_Hanoi()
 cp_data = [0, 0, -.25, 0];

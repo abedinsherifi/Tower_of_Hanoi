@@ -1,7 +1,4 @@
 % Abedin Sherifi
-% RBE 500
-% Project 2
-% 12/14/2019
 
 close all
 clear all
